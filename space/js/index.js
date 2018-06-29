@@ -34,3 +34,7 @@ load();
 function teste() {
   alert("Paulo");
 }
+
+function teste2() {
+  console.log("Paulo");
+}
